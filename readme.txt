@@ -1,1 +1,2 @@
-for a second
+Wait for a second
+
